@@ -1,0 +1,4 @@
+## Delete Unnecessary Files
+./octave-workspace
+./code/octave-workspace
+./tests/octave-workspace
